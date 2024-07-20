@@ -2,7 +2,7 @@ import math
 import random
 import time
 
-
+# implementing this as a refresher
 # this refers to the input array by reference, so it will modify the original array from wherever you
 # originally called merge_sort
 def merge_sort(input_array):
